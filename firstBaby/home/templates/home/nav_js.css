@@ -1,0 +1,6 @@
+#navbar{
+	display:flex;
+}
+#navbar a{
+	flex:1 1 auto; 
+}
