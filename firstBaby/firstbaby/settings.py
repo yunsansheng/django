@@ -25,7 +25,7 @@ SECRET_KEY = 'c+oc%@_*^-drmi7=wcsue!4s+@7e0+d5ed6l2-vc71eq9f!esr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['15fy822396.iok.la','qsones.com','localhost']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -88,8 +88,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'firstbaby',
         'USER':'root',
-        'PASSWORD':'123',
-        'HOST':'127.0.0.1',
+        'PASSWORD':'rWqAssNX9tY7bwUm',
+        'HOST':'localhost',
         'PORT': '3306',
     }
 }
